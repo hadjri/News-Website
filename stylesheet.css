@@ -1,0 +1,44 @@
+/* stylesheet for birthday card*/
+
+sucess {
+font-size: 12pt;
+color: #0000AA;
+text-align: center;
+font-family: ‘Courier New’, Courier, monospace;
+}
+
+h1
+{
+color: #44544C;
+font-size: 25pt;
+text-align: center;
+}
+
+h2 {
+     text-align: center;
+    font-size: 10pt;
+    color: #44544C;
+    width:500px;
+    word-wrap:break-word;
+    font-family: ‘Courier New’, Courier, monospace;
+}
+h3{
+font-size: 9pt;
+text-align: center;
+font-family: ‘Courier New’, Courier, monospace;
+color:#F00F0F;
+}
+
+storyTitle{
+   font-size : 12pt;
+   text-align: center;
+font-family: ‘Courier New’, Courier, monospace;
+color:#000009;
+}
+log{
+text-align: right;
+}
+body {
+background-color:#CFEFEF;
+text-align: center;
+}
